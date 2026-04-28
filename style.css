@@ -1,0 +1,30 @@
+:root{
+  --bg:#0f172a; --card:#111827; --muted:#94a3b8; --text:#f8fafc;
+  --accent:#ef4444; --accent2:#f97316; --ok:#22c55e; --bad:#ef4444;
+}
+*{box-sizing:border-box}
+body{margin:0;font-family:Arial,Helvetica,sans-serif;background:radial-gradient(circle at top,#7f1d1d 0,#0f172a 38%,#020617 100%);color:var(--text);min-height:100vh}
+header{padding:22px;background:rgba(2,6,23,.92);border-bottom:1px solid #334155;position:sticky;top:0;z-index:2;backdrop-filter:blur(8px)}
+h1,h2,p{margin-top:0}
+header p{color:var(--muted);margin-bottom:0}
+main{max-width:920px;margin:0 auto;padding:20px}
+.screen{display:none}.screen.active{display:block}
+.hero,.card,.mini{background:rgba(17,24,39,.94);border:1px solid #334155;border-radius:22px;padding:22px;margin-bottom:18px;box-shadow:0 14px 35px rgba(0,0,0,.35)}
+.hero h2{font-size:30px}
+.badges{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}
+.badges span{background:#1f2937;border:1px solid #475569;border-radius:999px;padding:8px 10px;color:#e2e8f0;font-size:13px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:14px}
+button{border:0;border-radius:16px;padding:16px;background:linear-gradient(135deg,var(--accent),var(--accent2));color:white;font-size:16px;font-weight:800;cursor:pointer;box-shadow:0 8px 18px rgba(0,0,0,.25)}
+button:disabled{opacity:.45;cursor:not-allowed}
+.back,.secondary{background:#334155}
+.quiz-top{display:flex;justify-content:space-between;color:var(--muted);margin-bottom:10px;gap:10px;flex-wrap:wrap}
+.progress{height:10px;background:#334155;border-radius:999px;margin-bottom:18px;overflow:hidden}
+#progressBar{height:100%;width:0;background:linear-gradient(90deg,var(--accent),var(--accent2));transition:.3s}
+.answer{display:block;width:100%;margin:10px 0;text-align:left;background:#1f2937;border:1px solid #334155;box-shadow:none}
+.answer:hover{filter:brightness(1.1)}
+.answer.correct{background:#166534;border-color:#22c55e}
+.answer.wrong{background:#7f1d1d;border-color:#ef4444}
+#feedback{margin:16px 0;padding:14px;border-radius:14px;background:#020617;color:#e2e8f0;min-height:48px;border:1px solid #334155}
+.stat{background:#111827;border:1px solid #334155;padding:14px;border-radius:14px;margin:10px 0}
+small{color:var(--muted)}
+.mini{color:#cbd5e1;font-size:14px}

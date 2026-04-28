@@ -1,0 +1,9 @@
+{
+  "name": "Quiz Bombeiro Civil Pro",
+  "short_name": "Bombeiro Pro",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#ef4444",
+  "icons": []
+}

@@ -1,1892 +1,1962 @@
 [
   {
     "id": 1,
-    "pergunta": "Pergunta 1 sobre Combate a incêndio",
+    "pergunta": "Quais elementos formam o tetraedro do fogo?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Calor, combustível, comburente e reação em cadeia",
+      "B": "Oxigênio, fumaça, fuligem e vapor",
+      "C": "Água, pressão, calor e chama",
+      "D": "Combustível, espuma, calor e fumaça"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Combate a incêndio",
+    "explicacao": "O tetraedro inclui os três elementos do fogo mais a reação em cadeia.",
     "categoria": "Combate a incêndio",
     "nivel": "medio"
   },
   {
     "id": 2,
-    "pergunta": "Pergunta 2 sobre Combate a incêndio",
+    "pergunta": "O método de extinção por resfriamento atua sobre qual elemento?",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Comburente",
+      "B": "Calor",
+      "C": "Combustível",
+      "D": "Fumaça"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Combate a incêndio",
+    "resposta": "B",
+    "explicacao": "O resfriamento reduz a temperatura do combustível abaixo do ponto de ignição.",
     "categoria": "Combate a incêndio",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 3,
-    "pergunta": "Pergunta 3 sobre Combate a incêndio",
+    "pergunta": "O abafamento tem como objetivo principal:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Retirar o oxigênio/comburente",
+      "B": "Aumentar a ventilação",
+      "C": "Aumentar a chama",
+      "D": "Gerar vapores inflamáveis"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Combate a incêndio",
+    "explicacao": "O abafamento reduz o comburente disponível para a combustão.",
     "categoria": "Combate a incêndio",
     "nivel": "medio"
   },
   {
     "id": 4,
-    "pergunta": "Pergunta 4 sobre Combate a incêndio",
+    "pergunta": "O backdraft ocorre normalmente quando:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Um ambiente fechado com gases quentes recebe oxigênio subitamente",
+      "B": "Há excesso de água no ambiente",
+      "C": "O fogo está totalmente apagado",
+      "D": "A temperatura está baixa"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Combate a incêndio",
+    "explicacao": "A entrada repentina de oxigênio pode gerar explosão de fumaça e gases combustíveis.",
     "categoria": "Combate a incêndio",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 5,
-    "pergunta": "Pergunta 5 sobre Combate a incêndio",
+    "pergunta": "O flashover é caracterizado por:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Ignição generalizada dos materiais combustíveis no ambiente",
+      "B": "Explosão de cilindro pressurizado",
+      "C": "Queima apenas superficial",
+      "D": "Resfriamento total do ambiente"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Combate a incêndio",
+    "explicacao": "O flashover ocorre quando a temperatura leva à ignição quase simultânea dos materiais.",
     "categoria": "Combate a incêndio",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 6,
-    "pergunta": "Pergunta 6 sobre Combate a incêndio",
+    "pergunta": "A pirólise é:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Decomposição térmica que libera gases combustíveis",
+      "B": "Combate com água pressurizada",
+      "C": "Resfriamento por espuma",
+      "D": "Isolamento por barreira física"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Combate a incêndio",
+    "explicacao": "Materiais aquecidos liberam vapores que podem alimentar o fogo.",
     "categoria": "Combate a incêndio",
     "nivel": "medio"
   },
   {
     "id": 7,
-    "pergunta": "Pergunta 7 sobre Combate a incêndio",
+    "pergunta": "Incêndios em madeira, papel e tecido pertencem à classe:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Combate a incêndio",
+    "explicacao": "Classe A envolve combustíveis sólidos comuns que deixam resíduos.",
     "categoria": "Combate a incêndio",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 8,
-    "pergunta": "Pergunta 8 sobre Combate a incêndio",
+    "pergunta": "Incêndios em líquidos inflamáveis pertencem à classe:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Combate a incêndio",
+    "resposta": "B",
+    "explicacao": "Classe B envolve líquidos inflamáveis e combustíveis.",
     "categoria": "Combate a incêndio",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 9,
-    "pergunta": "Pergunta 9 sobre Combate a incêndio",
+    "pergunta": "Incêndio em equipamento elétrico energizado é classe:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
     },
-    "resposta": "A",
-    "explicacao": "Explicação de Combate a incêndio",
+    "resposta": "C",
+    "explicacao": "Classe C envolve equipamentos elétricos energizados.",
     "categoria": "Combate a incêndio",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 10,
-    "pergunta": "Pergunta 10 sobre Combate a incêndio",
+    "pergunta": "A principal característica da fumaça em incêndios é:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Ser quente, tóxica e reduzir visibilidade",
+      "B": "Ser sempre inofensiva",
+      "C": "Ser apenas vapor d'água",
+      "D": "Não conter gases perigosos"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Combate a incêndio",
+    "explicacao": "A fumaça pode conter gases tóxicos, calor e partículas.",
     "categoria": "Combate a incêndio",
     "nivel": "medio"
   },
   {
     "id": 11,
-    "pergunta": "Pergunta 11 sobre Combate a incêndio",
+    "pergunta": "A condução transmite calor:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Por contato direto entre materiais",
+      "B": "Pelo movimento de gases",
+      "C": "Por ondas térmicas",
+      "D": "Somente por líquidos"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Combate a incêndio",
+    "explicacao": "Condução ocorre por contato direto ou através de materiais.",
     "categoria": "Combate a incêndio",
     "nivel": "medio"
   },
   {
     "id": 12,
-    "pergunta": "Pergunta 12 sobre Combate a incêndio",
+    "pergunta": "A convecção transmite calor:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Por movimento de gases ou líquidos aquecidos",
+      "B": "Por contato entre sólidos",
+      "C": "Por descarga elétrica",
+      "D": "Por compressão direta"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Combate a incêndio",
+    "explicacao": "Gases quentes sobem e propagam calor por convecção.",
     "categoria": "Combate a incêndio",
     "nivel": "medio"
   },
   {
     "id": 13,
-    "pergunta": "Pergunta 13 sobre Combate a incêndio",
+    "pergunta": "A irradiação transmite calor:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Por ondas térmicas sem contato direto",
+      "B": "Somente por água",
+      "C": "Somente por metais",
+      "D": "Por pressão hidráulica"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Combate a incêndio",
+    "explicacao": "A irradiação pode aquecer materiais a distância.",
     "categoria": "Combate a incêndio",
     "nivel": "medio"
   },
   {
     "id": 14,
-    "pergunta": "Pergunta 14 sobre Combate a incêndio",
+    "pergunta": "O aumento da superfície de contato de um combustível tende a:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Acelerar a combustão",
+      "B": "Impedir a queima",
+      "C": "Eliminar o comburente",
+      "D": "Resfriar o ambiente"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Combate a incêndio",
+    "explicacao": "Materiais fragmentados queimam mais facilmente por maior contato com oxigênio.",
     "categoria": "Combate a incêndio",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 15,
-    "pergunta": "Pergunta 15 sobre Combate a incêndio",
+    "pergunta": "Em incêndio estrutural, ventilação mal coordenada pode:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Alimentar o fogo e piorar as condições internas",
+      "B": "Apagar o incêndio automaticamente",
+      "C": "Eliminar todos os gases",
+      "D": "Substituir a linha de ataque"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Combate a incêndio",
+    "explicacao": "Ventilação exige coordenação com ataque para evitar intensificação.",
     "categoria": "Combate a incêndio",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 16,
-    "pergunta": "Pergunta 1 sobre Extintores",
+    "pergunta": "Extintor de água pressurizada é indicado principalmente para:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Classe A",
+      "B": "Classe B",
+      "C": "Classe C",
+      "D": "Classe D"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Extintores",
+    "explicacao": "Água é indicada para sólidos combustíveis comuns.",
     "categoria": "Extintores",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 17,
-    "pergunta": "Pergunta 2 sobre Extintores",
+    "pergunta": "Água não deve ser usada em equipamento energizado porque:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Pode conduzir eletricidade",
+      "B": "Não molha",
+      "C": "É inflamável",
+      "D": "Aumenta oxigênio"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Extintores",
+    "explicacao": "A água pode causar choque elétrico.",
     "categoria": "Extintores",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 18,
-    "pergunta": "Pergunta 3 sobre Extintores",
+    "pergunta": "O CO2 é indicado para equipamentos elétricos porque:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Não deixa resíduos e não conduz eletricidade",
+      "B": "É abrasivo",
+      "C": "Contém água",
+      "D": "Aumenta a chama"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Extintores",
+    "explicacao": "CO2 atua por abafamento e é limpo.",
     "categoria": "Extintores",
     "nivel": "medio"
   },
   {
     "id": 19,
-    "pergunta": "Pergunta 4 sobre Extintores",
+    "pergunta": "O pó químico seco atua principalmente por:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Quebra da reação em cadeia",
+      "B": "Aumento da ventilação",
+      "C": "Condução elétrica",
+      "D": "Geração de água"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Extintores",
+    "explicacao": "O PQS interfere na reação química da combustão.",
     "categoria": "Extintores",
     "nivel": "medio"
   },
   {
     "id": 20,
-    "pergunta": "Pergunta 5 sobre Extintores",
+    "pergunta": "Espuma mecânica é eficiente em classe B porque:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Forma camada que separa vapores inflamáveis do ar",
+      "B": "Aumenta oxigênio",
+      "C": "É ideal para metais",
+      "D": "É condutora elétrica"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Extintores",
+    "explicacao": "A espuma abafa e reduz vaporização do combustível.",
     "categoria": "Extintores",
     "nivel": "medio"
   },
   {
     "id": 21,
-    "pergunta": "Pergunta 6 sobre Extintores",
+    "pergunta": "Incêndio em metal combustível exige:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Pó especial classe D",
+      "B": "Água em jato compacto",
+      "C": "Espuma comum",
+      "D": "CO2 sempre"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Extintores",
+    "explicacao": "Metais combustíveis podem reagir com agentes comuns.",
     "categoria": "Extintores",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 22,
-    "pergunta": "Pergunta 7 sobre Extintores",
+    "pergunta": "Ao usar extintor portátil, o jato deve ser direcionado:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "À base das chamas",
+      "B": "Ao teto",
+      "C": "Ao rosto da vítima",
+      "D": "Ao centro da fumaça"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Extintores",
+    "explicacao": "A base do fogo é onde ocorre a combustão do material.",
     "categoria": "Extintores",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 23,
-    "pergunta": "Pergunta 8 sobre Extintores",
+    "pergunta": "O manômetro do extintor indica:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Pressão interna",
+      "B": "Temperatura do fogo",
+      "C": "Classe do incêndio",
+      "D": "Quantidade de fumaça"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Extintores",
+    "explicacao": "A pressão deve estar na faixa operacional.",
     "categoria": "Extintores",
     "nivel": "medio"
   },
   {
     "id": 24,
-    "pergunta": "Pergunta 9 sobre Extintores",
+    "pergunta": "Antes de usar um extintor, deve-se verificar:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Classe do fogo, rota de fuga e condição do equipamento",
+      "B": "Somente a cor do cilindro",
+      "C": "Somente a marca",
+      "D": "Somente o peso"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Extintores",
+    "explicacao": "Uso seguro exige avaliação rápida do cenário.",
     "categoria": "Extintores",
     "nivel": "medio"
   },
   {
     "id": 25,
-    "pergunta": "Pergunta 10 sobre Extintores",
+    "pergunta": "Classe K está relacionada a incêndios envolvendo:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Óleos e gorduras de cozinha",
+      "B": "Madeira",
+      "C": "Equipamentos energizados",
+      "D": "Metais combustíveis"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Extintores",
+    "explicacao": "Classe K é comum em cozinhas industriais.",
     "categoria": "Extintores",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 26,
-    "pergunta": "Pergunta 11 sobre Extintores",
+    "pergunta": "Extintor vencido ou sem pressão deve ser:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Retirado de uso e encaminhado à manutenção",
+      "B": "Usado normalmente",
+      "C": "Guardado escondido",
+      "D": "Pintado novamente"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Extintores",
+    "explicacao": "Equipamento fora de condição não é confiável.",
     "categoria": "Extintores",
     "nivel": "medio"
   },
   {
     "id": 27,
-    "pergunta": "Pergunta 12 sobre Extintores",
+    "pergunta": "O extintor de CO2 pode oferecer risco em local confinado porque:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Pode deslocar oxigênio do ambiente",
+      "B": "É altamente corrosivo",
+      "C": "Explode ao tocar no chão",
+      "D": "Gera água fervente"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Extintores",
+    "explicacao": "CO2 em concentração elevada pode causar asfixia.",
     "categoria": "Extintores",
     "nivel": "medio"
   },
   {
     "id": 28,
-    "pergunta": "Pergunta 13 sobre Extintores",
+    "pergunta": "A inspeção visual do extintor deve observar:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Lacre, manômetro, acesso e conservação",
+      "B": "Somente a mangueira",
+      "C": "Somente a etiqueta",
+      "D": "Apenas a pintura"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Extintores",
+    "explicacao": "A inspeção ajuda a garantir prontidão.",
     "categoria": "Extintores",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 29,
-    "pergunta": "Pergunta 14 sobre Extintores",
+    "pergunta": "Em princípio de incêndio com líquido inflamável derramado, jato de água compacto pode:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Espalhar o combustível",
+      "B": "Apagar sempre",
+      "C": "Transformar em classe A",
+      "D": "Eliminar vapores"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Extintores",
+    "explicacao": "Água em jato pode espalhar líquidos inflamáveis.",
     "categoria": "Extintores",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 30,
-    "pergunta": "Pergunta 15 sobre Extintores",
+    "pergunta": "O agente extintor deve ser escolhido conforme:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Classe do incêndio e riscos do ambiente",
+      "B": "Tamanho do prédio apenas",
+      "C": "Cor do extintor apenas",
+      "D": "Preferência pessoal"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Extintores",
+    "explicacao": "A escolha errada pode piorar a emergência.",
     "categoria": "Extintores",
     "nivel": "medio"
   },
   {
     "id": 31,
-    "pergunta": "Pergunta 1 sobre Equipamentos",
+    "pergunta": "Mangueira de ataque serve para:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Conduzir água até o esguicho",
+      "B": "Armazenar EPI",
+      "C": "Fazer ventilação",
+      "D": "Medir pressão arterial"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Equipamentos",
+    "explicacao": "É usada na linha de combate.",
     "categoria": "Equipamentos",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 32,
-    "pergunta": "Pergunta 2 sobre Equipamentos",
+    "pergunta": "Mangote é usado principalmente para:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Sucção de água",
+      "B": "Combate direto com espuma",
+      "C": "Proteção cervical",
+      "D": "Comunicação"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Equipamentos",
+    "explicacao": "Mangotes são rígidos/semirrígidos e usados em sucção.",
     "categoria": "Equipamentos",
     "nivel": "medio"
   },
   {
     "id": 33,
-    "pergunta": "Pergunta 3 sobre Equipamentos",
+    "pergunta": "Esguicho regulável permite:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Alterar padrão de jato",
+      "B": "Aumentar oxigênio",
+      "C": "Medir temperatura corporal",
+      "D": "Filtrar fumaça"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Equipamentos",
+    "explicacao": "Pode alternar entre compacto, neblinado e outros padrões.",
     "categoria": "Equipamentos",
     "nivel": "medio"
   },
   {
     "id": 34,
-    "pergunta": "Pergunta 4 sobre Equipamentos",
+    "pergunta": "Jato neblinado é útil porque:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Aumenta área de contato da água com o calor",
+      "B": "Não molha",
+      "C": "É usado apenas em metais",
+      "D": "Não consome água"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Equipamentos",
+    "explicacao": "Gotículas absorvem calor de forma eficiente.",
     "categoria": "Equipamentos",
     "nivel": "medio"
   },
   {
     "id": 35,
-    "pergunta": "Pergunta 5 sobre Equipamentos",
+    "pergunta": "Hidrante de recalque permite:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Alimentar a rede por fonte externa",
+      "B": "Guardar extintor",
+      "C": "Sinalizar rota",
+      "D": "Ventilar fumaça"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Equipamentos",
+    "explicacao": "Viaturas podem alimentar o sistema por recalque.",
     "categoria": "Equipamentos",
     "nivel": "medio"
   },
   {
     "id": 36,
-    "pergunta": "Pergunta 6 sobre Equipamentos",
+    "pergunta": "Perda de carga aumenta quando:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Aumentam distância, vazão e atrito",
+      "B": "A mangueira fica curta",
+      "C": "A água para",
+      "D": "O esguicho fecha"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Equipamentos",
+    "explicacao": "Quanto maior o atrito e comprimento, maior a perda de pressão.",
     "categoria": "Equipamentos",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 37,
-    "pergunta": "Pergunta 7 sobre Equipamentos",
+    "pergunta": "Válvula de retenção serve para:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Evitar retorno do fluxo",
+      "B": "Aumentar fumaça",
+      "C": "Resfriar gases",
+      "D": "Medir pulso"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Equipamentos",
+    "explicacao": "Permite fluxo em sentido único.",
     "categoria": "Equipamentos",
     "nivel": "medio"
   },
   {
     "id": 38,
-    "pergunta": "Pergunta 8 sobre Equipamentos",
+    "pergunta": "EPR/SCBA é usado para:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Proteção respiratória em atmosfera perigosa",
+      "B": "Combate com pó químico",
+      "C": "Iluminação de emergência",
+      "D": "Corte de vidro"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Equipamentos",
+    "explicacao": "Fornece ar respirável ao usuário.",
     "categoria": "Equipamentos",
     "nivel": "medio"
   },
   {
     "id": 39,
-    "pergunta": "Pergunta 9 sobre Equipamentos",
+    "pergunta": "Antes de entrar com EPR, deve-se checar:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Pressão do cilindro, vedação e funcionamento",
+      "B": "A cor do cilindro apenas",
+      "C": "O peso da bota",
+      "D": "A marca do rádio"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Equipamentos",
+    "explicacao": "Falhas no EPR podem colocar o bombeiro em risco.",
     "categoria": "Equipamentos",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 40,
-    "pergunta": "Pergunta 10 sobre Equipamentos",
+    "pergunta": "Capacete, luva e bota fazem parte de:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "EPI",
+      "B": "EPC",
+      "C": "DEA",
+      "D": "APR"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Equipamentos",
+    "explicacao": "São equipamentos de proteção individual.",
     "categoria": "Equipamentos",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 41,
-    "pergunta": "Pergunta 11 sobre Equipamentos",
+    "pergunta": "A roupa de aproximação protege contra:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Calor radiante e contato térmico limitado",
+      "B": "Afogamento",
+      "C": "Queda de altura sem cinto",
+      "D": "Produto químico sempre"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Equipamentos",
+    "explicacao": "Ela reduz exposição térmica, mas tem limites.",
     "categoria": "Equipamentos",
     "nivel": "medio"
   },
   {
     "id": 42,
-    "pergunta": "Pergunta 12 sobre Equipamentos",
+    "pergunta": "Linha pressurizada deve ser manejada com cuidado porque:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Pode chicotear e causar lesão se perder controle",
+      "B": "Não oferece risco",
+      "C": "É sempre leve",
+      "D": "Não possui pressão"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Equipamentos",
+    "explicacao": "Pressão da água gera força reativa.",
     "categoria": "Equipamentos",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 43,
-    "pergunta": "Pergunta 13 sobre Equipamentos",
+    "pergunta": "Iluminação de emergência auxilia:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Abandono seguro em falta de energia ou fumaça",
+      "B": "Aumentar temperatura",
+      "C": "Pressurizar mangueira",
+      "D": "Apagar classe B"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Equipamentos",
+    "explicacao": "Ajuda na orientação durante evacuação.",
     "categoria": "Equipamentos",
     "nivel": "medio"
   },
   {
     "id": 44,
-    "pergunta": "Pergunta 14 sobre Equipamentos",
+    "pergunta": "Chave storz é usada para:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Acoplar e desacoplar juntas de mangueiras",
+      "B": "Abrir vias aéreas",
+      "C": "Medir oxigênio",
+      "D": "Cortar metal"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Equipamentos",
+    "explicacao": "Facilita manobra de juntas de engate.",
     "categoria": "Equipamentos",
     "nivel": "medio"
   },
   {
     "id": 45,
-    "pergunta": "Pergunta 15 sobre Equipamentos",
+    "pergunta": "O sistema de hidrantes deve garantir:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Vazão, pressão e acesso adequados",
+      "B": "Apenas pintura vermelha",
+      "C": "Somente abrigo bonito",
+      "D": "Somente mangueira nova"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Equipamentos",
+    "explicacao": "Combate eficiente depende de condições hidráulicas e acesso.",
     "categoria": "Equipamentos",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 46,
-    "pergunta": "Pergunta 1 sobre Legislação",
+    "pergunta": "A brigada de incêndio tem como finalidade:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Prevenção, abandono e combate inicial",
+      "B": "Substituir sempre o Corpo de Bombeiros",
+      "C": "Fazer apenas portaria",
+      "D": "Realizar vendas"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Legislação",
+    "explicacao": "A brigada atua na resposta inicial e prevenção.",
     "categoria": "Legislação",
     "nivel": "medio"
   },
   {
     "id": 47,
-    "pergunta": "Pergunta 2 sobre Legislação",
+    "pergunta": "Rotas de fuga devem permanecer:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Livres, sinalizadas e iluminadas",
+      "B": "Trancadas",
+      "C": "Usadas como depósito",
+      "D": "Sem placas"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Legislação",
+    "explicacao": "A evacuação depende de acesso livre.",
     "categoria": "Legislação",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 48,
-    "pergunta": "Pergunta 3 sobre Legislação",
+    "pergunta": "Ponto de encontro deve ser:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Seguro e afastado da área de risco",
+      "B": "Dentro da edificação",
+      "C": "No estacionamento fechado",
+      "D": "Na zona quente"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Legislação",
+    "explicacao": "Permite conferência sem exposição.",
     "categoria": "Legislação",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 49,
-    "pergunta": "Pergunta 4 sobre Legislação",
+    "pergunta": "APR significa:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Análise Preliminar de Risco",
+      "B": "Área Principal de Resgate",
+      "C": "Ação Preventiva Rápida",
+      "D": "Alarme de Pressão Reduzida"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Legislação",
+    "explicacao": "APR identifica perigos e medidas de controle.",
     "categoria": "Legislação",
     "nivel": "medio"
   },
   {
     "id": 50,
-    "pergunta": "Pergunta 5 sobre Legislação",
+    "pergunta": "Treinamentos periódicos da brigada servem para:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Manter preparo e reduzir falhas",
+      "B": "Apenas cumprir presença",
+      "C": "Substituir equipamento",
+      "D": "Evitar evacuação"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Legislação",
+    "explicacao": "Treino melhora resposta real.",
     "categoria": "Legislação",
     "nivel": "medio"
   },
   {
     "id": 51,
-    "pergunta": "Pergunta 6 sobre Legislação",
+    "pergunta": "Sinalização de emergência orienta:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Rotas, saídas e equipamentos",
+      "B": "Decoração",
+      "C": "Setor financeiro",
+      "D": "Uniformes"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Legislação",
+    "explicacao": "Ela ajuda pessoas a localizar meios de fuga e combate.",
     "categoria": "Legislação",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 52,
-    "pergunta": "Pergunta 7 sobre Legislação",
+    "pergunta": "Equipamentos de combate devem estar:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Acessíveis e em condições de uso",
+      "B": "Escondidos",
+      "C": "Obstruídos",
+      "D": "Trancados sem chave"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Legislação",
+    "explicacao": "Acesso rápido é essencial.",
     "categoria": "Legislação",
     "nivel": "medio"
   },
   {
     "id": 53,
-    "pergunta": "Pergunta 8 sobre Legislação",
+    "pergunta": "Em emergência, o brigadista deve atuar dentro:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Do treinamento e segurança disponíveis",
+      "B": "De qualquer risco sem limite",
+      "C": "Da curiosidade",
+      "D": "Da ordem de curiosos"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Legislação",
+    "explicacao": "A atuação deve respeitar capacitação e segurança.",
     "categoria": "Legislação",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 54,
-    "pergunta": "Pergunta 9 sobre Legislação",
+    "pergunta": "Plano de abandono busca:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Retirada organizada e segura",
+      "B": "Salvar objetos primeiro",
+      "C": "Filmar a ocorrência",
+      "D": "Manter todos no local"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Legislação",
+    "explicacao": "Prioridade é preservar vidas.",
     "categoria": "Legislação",
     "nivel": "medio"
   },
   {
     "id": 55,
-    "pergunta": "Pergunta 10 sobre Legislação",
+    "pergunta": "A inspeção preventiva visa:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Identificar irregularidades antes da emergência",
+      "B": "Criar riscos",
+      "C": "Atrasar resposta",
+      "D": "Substituir treinamento"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Legislação",
+    "explicacao": "Prevenção reduz probabilidade de ocorrência.",
     "categoria": "Legislação",
     "nivel": "medio"
   },
   {
     "id": 56,
-    "pergunta": "Pergunta 11 sobre Legislação",
+    "pergunta": "Alarme de incêndio serve para:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Alertar ocupantes para resposta/abandono",
+      "B": "Tocar música",
+      "C": "Abrir portas sempre",
+      "D": "Desligar extintores"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Legislação",
+    "explicacao": "O alarme inicia procedimentos de emergência.",
     "categoria": "Legislação",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 57,
-    "pergunta": "Pergunta 12 sobre Legislação",
+    "pergunta": "Controle de acesso em área de risco serve para:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Impedir entrada de pessoas não autorizadas",
+      "B": "Aumentar curiosos",
+      "C": "Facilitar tumulto",
+      "D": "Bloquear socorro"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Legislação",
+    "explicacao": "Controla exposição e organiza resposta.",
     "categoria": "Legislação",
     "nivel": "medio"
   },
   {
     "id": 58,
-    "pergunta": "Pergunta 13 sobre Legislação",
+    "pergunta": "Documentar simulados é importante para:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Avaliar falhas e melhorar procedimentos",
+      "B": "Criar burocracia sem uso",
+      "C": "Substituir brigada",
+      "D": "Evitar manutenção"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Legislação",
+    "explicacao": "Registros ajudam melhoria contínua.",
     "categoria": "Legislação",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 59,
-    "pergunta": "Pergunta 14 sobre Legislação",
+    "pergunta": "Manutenção preventiva em equipamentos de emergência deve ser:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Periódica e registrada",
+      "B": "Feita só após acidente",
+      "C": "Ignorada",
+      "D": "Apenas visual anual sem critério"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Legislação",
+    "explicacao": "Manutenção garante confiabilidade.",
     "categoria": "Legislação",
     "nivel": "medio"
   },
   {
     "id": 60,
-    "pergunta": "Pergunta 15 sobre Legislação",
+    "pergunta": "Em emergência, a prioridade legal e operacional é:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Preservar vidas",
+      "B": "Preservar documentos",
+      "C": "Evitar gastos",
+      "D": "Retomar produção imediatamente"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Legislação",
+    "explicacao": "A vida sempre vem primeiro.",
     "categoria": "Legislação",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 61,
-    "pergunta": "Pergunta 1 sobre Comunicação",
+    "pergunta": "Mensagem operacional deve ser:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Clara, curta e objetiva",
+      "B": "Longa e confusa",
+      "C": "Em tom de brincadeira",
+      "D": "Sem identificação"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Comunicação",
+    "explicacao": "Comunicação objetiva reduz falhas.",
     "categoria": "Comunicação",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 62,
-    "pergunta": "Pergunta 2 sobre Comunicação",
+    "pergunta": "Disciplina de rádio evita:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Congestionamento e mensagens conflitantes",
+      "B": "Organização",
+      "C": "Clareza",
+      "D": "Registro"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Comunicação",
+    "explicacao": "Rede congestionada atrapalha a emergência.",
     "categoria": "Comunicação",
     "nivel": "medio"
   },
   {
     "id": 63,
-    "pergunta": "Pergunta 3 sobre Comunicação",
+    "pergunta": "Ao acionar socorro, informe:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Local, tipo de ocorrência, vítimas e riscos",
+      "B": "Apenas seu nome",
+      "C": "Opiniões pessoais",
+      "D": "Valor do prejuízo"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Comunicação",
+    "explicacao": "Informações completas melhoram envio de recursos.",
     "categoria": "Comunicação",
     "nivel": "medio"
   },
   {
     "id": 64,
-    "pergunta": "Pergunta 4 sobre Comunicação",
+    "pergunta": "Comando único serve para:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Evitar ordens conflitantes",
+      "B": "Aumentar confusão",
+      "C": "Bloquear comunicação",
+      "D": "Impedir socorro"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Comunicação",
+    "explicacao": "Organiza ações e responsabilidades.",
     "categoria": "Comunicação",
     "nivel": "medio"
   },
   {
     "id": 65,
-    "pergunta": "Pergunta 5 sobre Comunicação",
+    "pergunta": "Em múltiplas vítimas, triagem serve para:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Priorizar atendimento conforme gravidade",
+      "B": "Atender quem grita mais",
+      "C": "Ignorar silenciosos",
+      "D": "Escolher conhecidos"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Comunicação",
+    "explicacao": "Triagem distribui recursos limitados.",
     "categoria": "Comunicação",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 66,
-    "pergunta": "Pergunta 6 sobre Comunicação",
+    "pergunta": "Isolamento de área serve para:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Afastar curiosos e reduzir exposição",
+      "B": "Aproximar familiares",
+      "C": "Liberar trânsito",
+      "D": "Permitir filmagens"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Comunicação",
+    "explicacao": "Evita novas vítimas e interferências.",
     "categoria": "Comunicação",
     "nivel": "medio"
   },
   {
     "id": 67,
-    "pergunta": "Pergunta 7 sobre Comunicação",
+    "pergunta": "Em produto perigoso, informação essencial é:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Identificação do produto e riscos",
+      "B": "Nome do curioso",
+      "C": "Cor do caminhão apenas",
+      "D": "Marca do celular"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Comunicação",
+    "explicacao": "Identificação define isolamento e EPI.",
     "categoria": "Comunicação",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 68,
-    "pergunta": "Pergunta 8 sobre Comunicação",
+    "pergunta": "Durante abandono, orientação deve focar em:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Calma, rota segura e ponto de encontro",
+      "B": "Correria",
+      "C": "Retorno por objetos",
+      "D": "Elevadores sempre"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Comunicação",
+    "explicacao": "Comunicação reduz pânico.",
     "categoria": "Comunicação",
     "nivel": "medio"
   },
   {
     "id": 69,
-    "pergunta": "Pergunta 9 sobre Comunicação",
+    "pergunta": "Ao transmitir pelo rádio, deve-se:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Falar apenas o necessário",
+      "B": "Interromper todos",
+      "C": "Gritar sempre",
+      "D": "Usar piadas"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Comunicação",
+    "explicacao": "Objetividade mantém a rede livre.",
     "categoria": "Comunicação",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 70,
-    "pergunta": "Pergunta 10 sobre Comunicação",
+    "pergunta": "Relato inicial da cena deve conter:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Riscos visíveis e necessidade de apoio",
+      "B": "Detalhes irrelevantes",
+      "C": "Culpados definitivos",
+      "D": "Boatos"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Comunicação",
+    "explicacao": "O primeiro relato guia decisões.",
     "categoria": "Comunicação",
     "nivel": "medio"
   },
   {
     "id": 71,
-    "pergunta": "Pergunta 11 sobre Comunicação",
+    "pergunta": "Falha de comunicação em emergência pode causar:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Atraso, duplicidade de ações e risco à equipe",
+      "B": "Melhora automática",
+      "C": "Menos risco",
+      "D": "Extinção do fogo"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Comunicação",
+    "explicacao": "Comunicação ruim aumenta perigo.",
     "categoria": "Comunicação",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 72,
-    "pergunta": "Pergunta 12 sobre Comunicação",
+    "pergunta": "Código e linguagem padronizados ajudam a:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Reduzir interpretação errada",
+      "B": "Confundir equipe",
+      "C": "Aumentar tempo",
+      "D": "Ocultar informação crítica"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Comunicação",
+    "explicacao": "Padronização melhora entendimento.",
     "categoria": "Comunicação",
     "nivel": "medio"
   },
   {
     "id": 73,
-    "pergunta": "Pergunta 13 sobre Comunicação",
+    "pergunta": "Em cenário ruidoso, a comunicação deve ser:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Confirmada e repetida quando necessário",
+      "B": "Sempre presumida",
+      "C": "Ignorada",
+      "D": "Feita por gestos aleatórios"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Comunicação",
+    "explicacao": "Confirmação evita erro operacional.",
     "categoria": "Comunicação",
     "nivel": "medio"
   },
   {
     "id": 74,
-    "pergunta": "Pergunta 14 sobre Comunicação",
+    "pergunta": "A passagem de comando deve incluir:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Situação, ações, riscos e recursos",
+      "B": "Apenas nome do chefe",
+      "C": "Somente horário",
+      "D": "Nada, para ser rápido"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Comunicação",
+    "explicacao": "Transferência clara mantém continuidade.",
     "categoria": "Comunicação",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 75,
-    "pergunta": "Pergunta 15 sobre Comunicação",
+    "pergunta": "Em emergência, boatos devem ser:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Evitados",
+      "B": "Espalhados",
+      "C": "Usados como fonte oficial",
+      "D": "Transmitidos no rádio"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Comunicação",
+    "explicacao": "Boatos prejudicam controle da ocorrência.",
     "categoria": "Comunicação",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 76,
-    "pergunta": "Pergunta 1 sobre APH",
+    "pergunta": "Antes de atender uma vítima, o socorrista deve:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Avaliar segurança da cena",
+      "B": "Dar água",
+      "C": "Mover a vítima sempre",
+      "D": "Iniciar transporte imediato"
     },
     "resposta": "A",
-    "explicacao": "Explicação de APH",
+    "explicacao": "Cena segura protege socorrista e vítima.",
     "categoria": "APH",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 77,
-    "pergunta": "Pergunta 2 sobre APH",
+    "pergunta": "ABCDE no APH busca:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Identificar ameaças imediatas à vida",
+      "B": "Fazer diagnóstico hospitalar completo",
+      "C": "Preencher documento primeiro",
+      "D": "Substituir médico"
     },
     "resposta": "A",
-    "explicacao": "Explicação de APH",
+    "explicacao": "ABCDE organiza a avaliação primária.",
     "categoria": "APH",
     "nivel": "medio"
   },
   {
     "id": 78,
-    "pergunta": "Pergunta 3 sobre APH",
+    "pergunta": "RCP em adulto usa relação:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "30 compressões para 2 ventilações",
+      "B": "15 para 1",
+      "C": "10 para 10",
+      "D": "5 para 5"
     },
     "resposta": "A",
-    "explicacao": "Explicação de APH",
+    "explicacao": "Relação padrão para socorrista treinado em adulto.",
     "categoria": "APH",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 79,
-    "pergunta": "Pergunta 4 sobre APH",
+    "pergunta": "Frequência ideal das compressões em adulto:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "100 a 120/min",
+      "B": "40 a 60/min",
+      "C": "150 a 180/min",
+      "D": "20 a 30/min"
     },
     "resposta": "A",
-    "explicacao": "Explicação de APH",
+    "explicacao": "Compressões eficazes devem manter ritmo adequado.",
     "categoria": "APH",
     "nivel": "medio"
   },
   {
     "id": 80,
-    "pergunta": "Pergunta 5 sobre APH",
+    "pergunta": "Hemorragia externa grave deve receber inicialmente:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Compressão direta",
+      "B": "Pomada",
+      "C": "Massagem",
+      "D": "Álcool no ferimento"
     },
     "resposta": "A",
-    "explicacao": "Explicação de APH",
+    "explicacao": "Compressão direta ajuda a controlar sangramento.",
     "categoria": "APH",
     "nivel": "medio"
   },
   {
     "id": 81,
-    "pergunta": "Pergunta 6 sobre APH",
+    "pergunta": "Torniquete pode ser indicado em:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Hemorragia grave em membro não controlada",
+      "B": "Qualquer corte pequeno",
+      "C": "Dor abdominal",
+      "D": "Febre"
     },
     "resposta": "A",
-    "explicacao": "Explicação de APH",
+    "explicacao": "É recurso para sangramento grave em extremidades.",
     "categoria": "APH",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 82,
-    "pergunta": "Pergunta 7 sobre APH",
+    "pergunta": "Em suspeita de lesão cervical, deve-se:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Imobilizar/controlar coluna cervical",
+      "B": "Sentar rapidamente",
+      "C": "Girar a cabeça",
+      "D": "Dar comida"
     },
     "resposta": "A",
-    "explicacao": "Explicação de APH",
+    "explicacao": "Movimento inadequado pode agravar lesão.",
     "categoria": "APH",
     "nivel": "medio"
   },
   {
     "id": 83,
-    "pergunta": "Pergunta 8 sobre APH",
+    "pergunta": "Em convulsão, a conduta correta é:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Proteger a cabeça e afastar objetos",
+      "B": "Colocar objeto na boca",
+      "C": "Segurar língua",
+      "D": "Dar água"
     },
     "resposta": "A",
-    "explicacao": "Explicação de APH",
+    "explicacao": "Não se deve colocar objetos na boca.",
     "categoria": "APH",
-    "nivel": "medio"
+    "nivel": "facil"
   },
   {
     "id": 84,
-    "pergunta": "Pergunta 9 sobre APH",
+    "pergunta": "Vítima inconsciente respirando, sem trauma evidente, pode ser colocada em:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Posição lateral de segurança",
+      "B": "Sentada de força",
+      "C": "De pé",
+      "D": "De bruços com rosto para baixo"
     },
     "resposta": "A",
-    "explicacao": "Explicação de APH",
+    "explicacao": "Ajuda a manter vias aéreas livres.",
     "categoria": "APH",
     "nivel": "medio"
   },
   {
     "id": 85,
-    "pergunta": "Pergunta 10 sobre APH",
+    "pergunta": "Sinais de choque incluem:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Pele fria/úmida, palidez e pulso rápido",
+      "B": "Pele sempre quente",
+      "C": "Euforia sem sintomas",
+      "D": "Apenas coceira"
     },
     "resposta": "A",
-    "explicacao": "Explicação de APH",
+    "explicacao": "Choque compromete perfusão.",
     "categoria": "APH",
     "nivel": "medio"
   },
   {
     "id": 86,
-    "pergunta": "Pergunta 11 sobre APH",
+    "pergunta": "Objeto empalado deve ser:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Estabilizado, sem remover",
+      "B": "Retirado imediatamente",
+      "C": "Empurrado para dentro",
+      "D": "Girado para soltar"
     },
     "resposta": "A",
-    "explicacao": "Explicação de APH",
+    "explicacao": "Remoção pode agravar sangramento.",
     "categoria": "APH",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 87,
-    "pergunta": "Pergunta 12 sobre APH",
+    "pergunta": "Em queimadura térmica, conduta inicial segura:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Resfriar com água corrente",
+      "B": "Passar manteiga",
+      "C": "Estourar bolhas",
+      "D": "Aplicar pó de café"
     },
     "resposta": "A",
-    "explicacao": "Explicação de APH",
+    "explicacao": "Resfriamento ajuda a limitar dano.",
     "categoria": "APH",
     "nivel": "medio"
   },
   {
     "id": 88,
-    "pergunta": "Pergunta 13 sobre APH",
+    "pergunta": "Em queimadura química, prioridade é:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Descontaminar e irrigar conforme segurança",
+      "B": "Neutralizar sempre com outro produto",
+      "C": "Cobrir sem avaliar",
+      "D": "Aplicar gelo seco"
     },
     "resposta": "A",
-    "explicacao": "Explicação de APH",
+    "explicacao": "Deve-se reduzir contato com agente químico.",
     "categoria": "APH",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 89,
-    "pergunta": "Pergunta 14 sobre APH",
+    "pergunta": "Engasgo grave em adulto consciente pode exigir:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Compressões abdominais/Heimlich",
+      "B": "RCP imediata sem avaliação",
+      "C": "Água",
+      "D": "Tapas no rosto"
     },
     "resposta": "A",
-    "explicacao": "Explicação de APH",
+    "explicacao": "Obstrução grave exige manobra adequada.",
     "categoria": "APH",
     "nivel": "medio"
   },
   {
     "id": 90,
-    "pergunta": "Pergunta 15 sobre APH",
+    "pergunta": "DEA deve ser usado em:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Suspeita de parada cardiorrespiratória",
+      "B": "Dor leve no braço",
+      "C": "Febre",
+      "D": "Fratura fechada"
     },
     "resposta": "A",
-    "explicacao": "Explicação de APH",
+    "explicacao": "DEA analisa ritmo e orienta choque quando indicado.",
     "categoria": "APH",
     "nivel": "medio"
   },
   {
     "id": 91,
-    "pergunta": "Pergunta 1 sobre Emergências Químicas",
+    "pergunta": "Primeira ação em suspeita de produto perigoso:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Isolar a área e identificar o produto à distância",
+      "B": "Entrar rapidamente",
+      "C": "Tocar no produto",
+      "D": "Jogar água sempre"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Emergências Químicas",
+    "explicacao": "Isolamento e identificação reduzem exposição.",
     "categoria": "Emergências Químicas",
     "nivel": "medio"
   },
   {
     "id": 92,
-    "pergunta": "Pergunta 2 sobre Emergências Químicas",
+    "pergunta": "A zona quente é:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Área contaminada ou de maior risco",
+      "B": "Área de descanso",
+      "C": "Área administrativa",
+      "D": "Ponto de imprensa"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Emergências Químicas",
+    "explicacao": "A zona quente concentra o perigo.",
     "categoria": "Emergências Químicas",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 93,
-    "pergunta": "Pergunta 3 sobre Emergências Químicas",
+    "pergunta": "A FISPQ fornece:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Informações de segurança do produto químico",
+      "B": "Escala de férias",
+      "C": "Lista de telefones pessoais",
+      "D": "Rota de ônibus"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Emergências Químicas",
+    "explicacao": "A FISPQ orienta riscos, EPI e resposta.",
     "categoria": "Emergências Químicas",
     "nivel": "medio"
   },
   {
     "id": 94,
-    "pergunta": "Pergunta 4 sobre Emergências Químicas",
+    "pergunta": "Em vazamento químico desconhecido, a aproximação deve ser:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Contra o vento e de área mais alta quando possível",
+      "B": "A favor do vento",
+      "C": "Pelo ponto mais baixo",
+      "D": "Sem EPI"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Emergências Químicas",
+    "explicacao": "Evita exposição a vapores e gases.",
     "categoria": "Emergências Químicas",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 95,
-    "pergunta": "Pergunta 5 sobre Emergências Químicas",
+    "pergunta": "Jogar água em produto químico desconhecido pode ser perigoso porque:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Pode reagir, espalhar ou gerar vapores tóxicos",
+      "B": "Sempre neutraliza",
+      "C": "Não altera nada",
+      "D": "Apaga qualquer risco"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Emergências Químicas",
+    "explicacao": "Alguns produtos reagem violentamente com água.",
     "categoria": "Emergências Químicas",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 96,
-    "pergunta": "Pergunta 6 sobre Emergências Químicas",
+    "pergunta": "Descontaminação tem como objetivo:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Remover ou reduzir contaminação",
+      "B": "Aumentar exposição",
+      "C": "Espalhar produto",
+      "D": "Substituir isolamento"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Emergências Químicas",
+    "explicacao": "Descontaminação reduz risco para vítima e equipe.",
     "categoria": "Emergências Químicas",
     "nivel": "medio"
   },
   {
     "id": 97,
-    "pergunta": "Pergunta 7 sobre Emergências Químicas",
+    "pergunta": "Em vítima contaminada, antes do transporte deve-se considerar:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Descontaminação para não contaminar equipe e ambulância",
+      "B": "Transporte imediato sempre sem limpeza",
+      "C": "Cobrir com pano e ignorar",
+      "D": "Dar comida"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Emergências Químicas",
+    "explicacao": "Contaminação secundária é risco real.",
     "categoria": "Emergências Químicas",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 98,
-    "pergunta": "Pergunta 8 sobre Emergências Químicas",
+    "pergunta": "Rótulos e painéis de risco ajudam a:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Identificar classe de risco e produto",
+      "B": "Decoram veículo",
+      "C": "Mostram placa turística",
+      "D": "Indicam preço"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Emergências Químicas",
+    "explicacao": "Sinalização orienta resposta inicial.",
     "categoria": "Emergências Químicas",
     "nivel": "medio"
   },
   {
     "id": 99,
-    "pergunta": "Pergunta 9 sobre Emergências Químicas",
+    "pergunta": "Produto inflamável vazando exige atenção a:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Fontes de ignição e vapores",
+      "B": "Apenas cor do líquido",
+      "C": "Somente barulho",
+      "D": "Temperatura corporal"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Emergências Químicas",
+    "explicacao": "Vapores inflamáveis podem ignir.",
     "categoria": "Emergências Químicas",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 100,
-    "pergunta": "Pergunta 10 sobre Emergências Químicas",
+    "pergunta": "Em derramamento químico, curiosos devem ser:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Afastados e mantidos fora da área isolada",
+      "B": "Aproximados para ajudar",
+      "C": "Usados como barreira",
+      "D": "Liberados para filmar"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Emergências Químicas",
+    "explicacao": "Controle de público evita novas vítimas.",
     "categoria": "Emergências Químicas",
     "nivel": "medio"
   },
   {
     "id": 101,
-    "pergunta": "Pergunta 11 sobre Emergências Químicas",
+    "pergunta": "Atmosfera deficiente em oxigênio pode ocorrer em:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Vazamentos que deslocam oxigênio em local confinado",
+      "B": "Ambiente aberto sempre seguro",
+      "C": "Qualquer sala ventilada sem risco",
+      "D": "Apenas incêndio classe A"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Emergências Químicas",
+    "explicacao": "Gases podem deslocar oxigênio e causar asfixia.",
     "categoria": "Emergências Químicas",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 102,
-    "pergunta": "Pergunta 12 sobre Emergências Químicas",
+    "pergunta": "Em produto corrosivo, o risco principal é:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Lesão química em pele, olhos e vias aéreas",
+      "B": "Apenas sujeira",
+      "C": "Choque elétrico sempre",
+      "D": "Congelamento imediato sempre"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Emergências Químicas",
+    "explicacao": "Corrosivos podem causar queimaduras químicas.",
     "categoria": "Emergências Químicas",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 103,
-    "pergunta": "Pergunta 13 sobre Emergências Químicas",
+    "pergunta": "EPI em emergência química deve ser escolhido conforme:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Produto, concentração, rota de exposição e tarefa",
+      "B": "Cor preferida",
+      "C": "Tamanho da equipe apenas",
+      "D": "Tempo de serviço"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Emergências Químicas",
+    "explicacao": "EPI inadequado não protege.",
     "categoria": "Emergências Químicas",
     "nivel": "medio"
   },
   {
     "id": 104,
-    "pergunta": "Pergunta 14 sobre Emergências Químicas",
+    "pergunta": "A contaminação cruzada ocorre quando:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "O contaminante é transferido para pessoas, áreas ou equipamentos limpos",
+      "B": "O produto evapora sem risco",
+      "C": "A equipe descansa",
+      "D": "O rádio falha"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Emergências Químicas",
+    "explicacao": "Controle de zonas evita espalhamento.",
     "categoria": "Emergências Químicas",
-    "nivel": "medio"
+    "nivel": "dificil"
   },
   {
     "id": 105,
-    "pergunta": "Pergunta 15 sobre Emergências Químicas",
+    "pergunta": "O isolamento inicial deve considerar:",
     "alternativas": {
-      "A": "Resposta correta",
-      "B": "Alternativa errada 1",
-      "C": "Alternativa errada 2",
-      "D": "Alternativa errada 3"
+      "A": "Tipo de produto, vento, relevo e população exposta",
+      "B": "Apenas quantidade de bombeiros",
+      "C": "Somente horário",
+      "D": "Cor do uniforme"
     },
     "resposta": "A",
-    "explicacao": "Explicação de Emergências Químicas",
+    "explicacao": "Fatores ambientais influenciam dispersão.",
     "categoria": "Emergências Químicas",
     "nivel": "medio"
   },
   {
     "id": 106,
-    "pergunta": "Situação química 1: ação correta?",
+    "pergunta": "Em vazamento de gás tóxico, prioridade operacional é:",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Isolar, evacuar se necessário e acionar recurso especializado",
+      "B": "Entrar sem máscara",
+      "C": "Ventilar sem análise sempre",
+      "D": "Aproximar público"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
+    "explicacao": "Gases tóxicos exigem controle rigoroso.",
     "categoria": "Emergências Químicas",
     "nivel": "dificil"
   },
   {
     "id": 107,
-    "pergunta": "Situação química 2: ação correta?",
+    "pergunta": "A zona fria é geralmente usada para:",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Comando, apoio e área limpa",
+      "B": "Contato direto com produto",
+      "C": "Descontaminação principal",
+      "D": "Conter vazamento"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
+    "explicacao": "Zona fria fica fora da contaminação.",
     "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "nivel": "medio"
   },
   {
     "id": 108,
-    "pergunta": "Situação química 3: ação correta?",
+    "pergunta": "A zona morna normalmente é usada para:",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Descontaminação e transição controlada",
+      "B": "Área de maior concentração do produto",
+      "C": "Público geral",
+      "D": "Depósito de alimentos"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
+    "explicacao": "Zona morna separa quente e fria.",
     "categoria": "Emergências Químicas",
     "nivel": "dificil"
   },
   {
     "id": 109,
-    "pergunta": "Situação química 4: ação correta?",
+    "pergunta": "Em suspeita de produto radioativo, deve-se:",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Afastar, isolar e acionar equipe especializada",
+      "B": "Manipular rapidamente",
+      "C": "Cheirar o produto",
+      "D": "Lavar com solvente"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
+    "explicacao": "Radiação exige recursos específicos.",
     "categoria": "Emergências Químicas",
     "nivel": "dificil"
   },
   {
     "id": 110,
-    "pergunta": "Situação química 5: ação correta?",
+    "pergunta": "Em emergência química, comunicação inicial deve informar:",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Local, produto suspeito, vítimas, vento e riscos",
+      "B": "Apenas nome do solicitante",
+      "C": "Boatos",
+      "D": "Causa definitiva"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
+    "explicacao": "Dados iniciais ajudam dimensionar resposta.",
     "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "nivel": "medio"
   },
   {
     "id": 111,
-    "pergunta": "Situação química 6: ação correta?",
+    "pergunta": "Vapor mais pesado que o ar tende a:",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Acumular em áreas baixas",
+      "B": "Subir sempre",
+      "C": "Desaparecer instantaneamente",
+      "D": "Virar água"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
+    "explicacao": "Muitos vapores perigosos seguem para pontos baixos.",
     "categoria": "Emergências Químicas",
     "nivel": "dificil"
   },
   {
     "id": 112,
-    "pergunta": "Situação química 7: ação correta?",
+    "pergunta": "Nunca se deve provar ou cheirar produto desconhecido porque:",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Pode causar intoxicação ou lesão",
+      "B": "Ajuda sempre",
+      "C": "É procedimento padrão",
+      "D": "Substitui detector"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
+    "explicacao": "Identificação deve ser feita por meios seguros.",
     "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "nivel": "medio"
   },
   {
     "id": 113,
-    "pergunta": "Situação química 8: ação correta?",
+    "pergunta": "Em produto oxidante, o risco é:",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Intensificar combustão de outros materiais",
+      "B": "Apagar qualquer fogo",
+      "C": "Congelar ambiente",
+      "D": "Neutralizar ácidos sempre"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
+    "explicacao": "Oxidantes favorecem combustão.",
     "categoria": "Emergências Químicas",
     "nivel": "dificil"
   },
   {
     "id": 114,
-    "pergunta": "Situação química 9: ação correta?",
+    "pergunta": "Absorventes em derramamentos são usados para:",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Conter e recolher líquido quando compatível",
+      "B": "Aumentar vazamento",
+      "C": "Gerar ignição",
+      "D": "Substituir EPI"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
+    "explicacao": "Devem ser compatíveis com o produto.",
     "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "nivel": "medio"
   },
   {
     "id": 115,
-    "pergunta": "Situação química 10: ação correta?",
+    "pergunta": "Em vazamento com vítimas caídas na zona quente, a equipe deve:",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Avaliar risco e entrar apenas com proteção adequada",
+      "B": "Correr imediatamente sem EPI",
+      "C": "Mandar curiosos resgatarem",
+      "D": "Ignorar isolamento"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
+    "explicacao": "Resgate sem proteção pode gerar novas vítimas.",
     "categoria": "Emergências Químicas",
     "nivel": "dificil"
   },
   {
     "id": 116,
-    "pergunta": "Situação química 11: ação correta?",
+    "pergunta": "Produto incompatível deve ser mantido:",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Separado para evitar reação perigosa",
+      "B": "Misturado para economizar espaço",
+      "C": "Aquecido sempre",
+      "D": "Sem identificação"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
+    "explicacao": "Incompatibilidade pode gerar calor, gases ou explosão.",
     "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "nivel": "medio"
   },
   {
     "id": 117,
-    "pergunta": "Situação química 12: ação correta?",
+    "pergunta": "O monitoramento atmosférico serve para:",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Detectar gases, oxigênio e explosividade",
+      "B": "Medir pressão arterial",
+      "C": "Avaliar ansiedade",
+      "D": "Contar pessoas"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
+    "explicacao": "Detectores orientam segurança da equipe.",
     "categoria": "Emergências Químicas",
     "nivel": "dificil"
   },
   {
     "id": 118,
-    "pergunta": "Situação química 13: ação correta?",
+    "pergunta": "Em produto inflamável, eliminar fontes de ignição inclui:",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Desligar equipamentos quando seguro e controlar faíscas",
+      "B": "Acender luzes sem avaliar",
+      "C": "Fumar longe só um pouco",
+      "D": "Usar celular sobre vazamento sempre"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
+    "explicacao": "Fontes de ignição podem iniciar incêndio/explosão.",
     "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "nivel": "medio"
   },
   {
     "id": 119,
-    "pergunta": "Situação química 14: ação correta?",
+    "pergunta": "A evacuação deve ser considerada quando:",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Há risco de exposição da população",
+      "B": "Há curiosidade do público",
+      "C": "A equipe quer espaço",
+      "D": "Sempre em qualquer odor leve sem análise"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
+    "explicacao": "Evacuação depende do risco e da exposição.",
     "categoria": "Emergências Químicas",
     "nivel": "dificil"
   },
   {
     "id": 120,
-    "pergunta": "Situação química 15: ação correta?",
+    "pergunta": "Ao final da ocorrência química, materiais contaminados devem ser:",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Tratados como contaminados até descontaminação/descarte adequado",
+      "B": "Guardados com EPIs limpos",
+      "C": "Levados para casa",
+      "D": "Misturados com lixo comum sempre"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
+    "explicacao": "Resíduos podem manter risco químico.",
     "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "nivel": "medio"
   },
   {
     "id": 121,
-    "pergunta": "Situação química 16: ação correta?",
+    "pergunta": "Em suspeita de intoxicação por monóxido de carbono, um perigo é:",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Hipóxia mesmo com respiração presente",
+      "B": "Fratura exposta",
+      "C": "Hemorragia externa",
+      "D": "Luxação simples"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
+    "explicacao": "CO compete com o oxigênio e compromete transporte no sangue.",
+    "categoria": "APH",
     "nivel": "dificil"
   },
   {
     "id": 122,
-    "pergunta": "Situação química 17: ação correta?",
+    "pergunta": "BLEVE está relacionado a:",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Explosão de recipiente com líquido pressurizado em ebulição",
+      "B": "Fogo em papel",
+      "C": "Choque elétrico",
+      "D": "Queimadura leve"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
+    "explicacao": "BLEVE envolve recipiente pressurizado exposto ao calor.",
+    "categoria": "Combate a incêndio",
     "nivel": "dificil"
   },
   {
     "id": 123,
-    "pergunta": "Situação química 18: ação correta?",
+    "pergunta": "O abrigo de mangueira deve permanecer:",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Sinalizado, acessível e organizado",
+      "B": "Trancado sem acesso",
+      "C": "Usado como depósito",
+      "D": "Sem identificação"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "explicacao": "Acesso rápido é essencial no combate.",
+    "categoria": "Equipamentos",
+    "nivel": "medio"
   },
   {
     "id": 124,
-    "pergunta": "Situação química 19: ação correta?",
+    "pergunta": "Simulado de abandono ajuda a:",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Treinar rotas, tempos e comportamento",
+      "B": "Gerar pânico proposital",
+      "C": "Substituir brigada",
+      "D": "Evitar manutenção"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "explicacao": "Simulados revelam falhas e melhoram resposta.",
+    "categoria": "Legislação",
+    "nivel": "medio"
   },
   {
     "id": 125,
-    "pergunta": "Situação química 20: ação correta?",
+    "pergunta": "Confirmação de mensagem crítica deve ocorrer para:",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Garantir que a ordem foi entendida",
+      "B": "Aumentar burocracia",
+      "C": "Ocupar rádio",
+      "D": "Confundir comando"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "explicacao": "Confirmação evita interpretações erradas.",
+    "categoria": "Comunicação",
+    "nivel": "medio"
   },
   {
     "id": 126,
-    "pergunta": "Situação química 21: ação correta?",
+    "pergunta": "Em suspeita de intoxicação por monóxido de carbono, um perigo é:",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Hipóxia mesmo com respiração presente",
+      "B": "Fratura exposta",
+      "C": "Hemorragia externa",
+      "D": "Luxação simples"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
+    "explicacao": "CO compete com o oxigênio e compromete transporte no sangue.",
+    "categoria": "APH",
     "nivel": "dificil"
   },
   {
     "id": 127,
-    "pergunta": "Situação química 22: ação correta?",
+    "pergunta": "BLEVE está relacionado a:",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Explosão de recipiente com líquido pressurizado em ebulição",
+      "B": "Fogo em papel",
+      "C": "Choque elétrico",
+      "D": "Queimadura leve"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
+    "explicacao": "BLEVE envolve recipiente pressurizado exposto ao calor.",
+    "categoria": "Combate a incêndio",
     "nivel": "dificil"
   },
   {
     "id": 128,
-    "pergunta": "Situação química 23: ação correta?",
+    "pergunta": "O abrigo de mangueira deve permanecer:",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Sinalizado, acessível e organizado",
+      "B": "Trancado sem acesso",
+      "C": "Usado como depósito",
+      "D": "Sem identificação"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "explicacao": "Acesso rápido é essencial no combate.",
+    "categoria": "Equipamentos",
+    "nivel": "medio"
   },
   {
     "id": 129,
-    "pergunta": "Situação química 24: ação correta?",
+    "pergunta": "Simulado de abandono ajuda a:",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Treinar rotas, tempos e comportamento",
+      "B": "Gerar pânico proposital",
+      "C": "Substituir brigada",
+      "D": "Evitar manutenção"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "explicacao": "Simulados revelam falhas e melhoram resposta.",
+    "categoria": "Legislação",
+    "nivel": "medio"
   },
   {
     "id": 130,
-    "pergunta": "Situação química 25: ação correta?",
+    "pergunta": "Confirmação de mensagem crítica deve ocorrer para:",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Garantir que a ordem foi entendida",
+      "B": "Aumentar burocracia",
+      "C": "Ocupar rádio",
+      "D": "Confundir comando"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "explicacao": "Confirmação evita interpretações erradas.",
+    "categoria": "Comunicação",
+    "nivel": "medio"
   },
   {
     "id": 131,
-    "pergunta": "Situação química 26: ação correta?",
+    "pergunta": "Em suspeita de intoxicação por monóxido de carbono, um perigo é:",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Hipóxia mesmo com respiração presente",
+      "B": "Fratura exposta",
+      "C": "Hemorragia externa",
+      "D": "Luxação simples"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
+    "explicacao": "CO compete com o oxigênio e compromete transporte no sangue.",
+    "categoria": "APH",
     "nivel": "dificil"
   },
   {
     "id": 132,
-    "pergunta": "Situação química 27: ação correta?",
+    "pergunta": "BLEVE está relacionado a:",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Explosão de recipiente com líquido pressurizado em ebulição",
+      "B": "Fogo em papel",
+      "C": "Choque elétrico",
+      "D": "Queimadura leve"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
+    "explicacao": "BLEVE envolve recipiente pressurizado exposto ao calor.",
+    "categoria": "Combate a incêndio",
     "nivel": "dificil"
   },
   {
     "id": 133,
-    "pergunta": "Situação química 28: ação correta?",
+    "pergunta": "O abrigo de mangueira deve permanecer:",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Sinalizado, acessível e organizado",
+      "B": "Trancado sem acesso",
+      "C": "Usado como depósito",
+      "D": "Sem identificação"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "explicacao": "Acesso rápido é essencial no combate.",
+    "categoria": "Equipamentos",
+    "nivel": "medio"
   },
   {
     "id": 134,
-    "pergunta": "Situação química 29: ação correta?",
+    "pergunta": "Simulado de abandono ajuda a:",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Treinar rotas, tempos e comportamento",
+      "B": "Gerar pânico proposital",
+      "C": "Substituir brigada",
+      "D": "Evitar manutenção"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
-    "nivel": "dificil"
+    "explicacao": "Simulados revelam falhas e melhoram resposta.",
+    "categoria": "Legislação",
+    "nivel": "medio"
   },
   {
     "id": 135,
-    "pergunta": "Situação química 30: ação correta?",
+    "pergunta": "Confirmação de mensagem crítica deve ocorrer para:",
     "alternativas": {
-      "A": "Isolar e identificar",
-      "B": "Entrar sem EPI",
-      "C": "Ignorar",
-      "D": "Jogar água sem avaliar"
+      "A": "Garantir que a ordem foi entendida",
+      "B": "Aumentar burocracia",
+      "C": "Ocupar rádio",
+      "D": "Confundir comando"
     },
     "resposta": "A",
-    "explicacao": "Procedimento seguro em produtos perigosos",
-    "categoria": "Emergências Químicas",
+    "explicacao": "Confirmação evita interpretações erradas.",
+    "categoria": "Comunicação",
+    "nivel": "medio"
+  },
+  {
+    "id": 136,
+    "pergunta": "Em suspeita de intoxicação por monóxido de carbono, um perigo é:",
+    "alternativas": {
+      "A": "Hipóxia mesmo com respiração presente",
+      "B": "Fratura exposta",
+      "C": "Hemorragia externa",
+      "D": "Luxação simples"
+    },
+    "resposta": "A",
+    "explicacao": "CO compete com o oxigênio e compromete transporte no sangue.",
+    "categoria": "APH",
     "nivel": "dificil"
+  },
+  {
+    "id": 137,
+    "pergunta": "BLEVE está relacionado a:",
+    "alternativas": {
+      "A": "Explosão de recipiente com líquido pressurizado em ebulição",
+      "B": "Fogo em papel",
+      "C": "Choque elétrico",
+      "D": "Queimadura leve"
+    },
+    "resposta": "A",
+    "explicacao": "BLEVE envolve recipiente pressurizado exposto ao calor.",
+    "categoria": "Combate a incêndio",
+    "nivel": "dificil"
+  },
+  {
+    "id": 138,
+    "pergunta": "O abrigo de mangueira deve permanecer:",
+    "alternativas": {
+      "A": "Sinalizado, acessível e organizado",
+      "B": "Trancado sem acesso",
+      "C": "Usado como depósito",
+      "D": "Sem identificação"
+    },
+    "resposta": "A",
+    "explicacao": "Acesso rápido é essencial no combate.",
+    "categoria": "Equipamentos",
+    "nivel": "medio"
+  },
+  {
+    "id": 139,
+    "pergunta": "Simulado de abandono ajuda a:",
+    "alternativas": {
+      "A": "Treinar rotas, tempos e comportamento",
+      "B": "Gerar pânico proposital",
+      "C": "Substituir brigada",
+      "D": "Evitar manutenção"
+    },
+    "resposta": "A",
+    "explicacao": "Simulados revelam falhas e melhoram resposta.",
+    "categoria": "Legislação",
+    "nivel": "medio"
+  },
+  {
+    "id": 140,
+    "pergunta": "Confirmação de mensagem crítica deve ocorrer para:",
+    "alternativas": {
+      "A": "Garantir que a ordem foi entendida",
+      "B": "Aumentar burocracia",
+      "C": "Ocupar rádio",
+      "D": "Confundir comando"
+    },
+    "resposta": "A",
+    "explicacao": "Confirmação evita interpretações erradas.",
+    "categoria": "Comunicação",
+    "nivel": "medio"
   }
 ]
