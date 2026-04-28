@@ -1,0 +1,25 @@
+
+<!DOCTYPE html>
+<html>
+<head><meta charset="UTF-8"><title>Quiz Bombeiro</title></head>
+<body>
+<h1>Quiz Bombeiro Civil</h1>
+<button onclick="start()">Iniciar</button>
+<div id="q"></div>
+<script>
+let data=[],i=0;
+fetch('questions.json').then(r=>r.json()).then(d=>data=d);
+function start(){i=0;next();}
+function next(){
+ if(i>=data.length){q.innerHTML="Fim";return;}
+ let x=data[i];
+ q.innerHTML="<h3>"+x.pergunta+"</h3>"+
+ Object.keys(x.alternativas).map(k=>`<button onclick="ans('${k}')">${k}) ${x.alternativas[k]}</button>`).join("<br>");
+}
+function ans(k){
+ alert(k==data[i].resposta?"Correto":"Errado");
+ i++; next();
+}
+</script>
+</body>
+</html>

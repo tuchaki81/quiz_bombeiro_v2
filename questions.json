@@ -1,0 +1,1892 @@
+[
+  {
+    "id": 1,
+    "pergunta": "Pergunta 1 sobre Combate a incêndio",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Combate a incêndio",
+    "categoria": "Combate a incêndio",
+    "nivel": "medio"
+  },
+  {
+    "id": 2,
+    "pergunta": "Pergunta 2 sobre Combate a incêndio",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Combate a incêndio",
+    "categoria": "Combate a incêndio",
+    "nivel": "medio"
+  },
+  {
+    "id": 3,
+    "pergunta": "Pergunta 3 sobre Combate a incêndio",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Combate a incêndio",
+    "categoria": "Combate a incêndio",
+    "nivel": "medio"
+  },
+  {
+    "id": 4,
+    "pergunta": "Pergunta 4 sobre Combate a incêndio",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Combate a incêndio",
+    "categoria": "Combate a incêndio",
+    "nivel": "medio"
+  },
+  {
+    "id": 5,
+    "pergunta": "Pergunta 5 sobre Combate a incêndio",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Combate a incêndio",
+    "categoria": "Combate a incêndio",
+    "nivel": "medio"
+  },
+  {
+    "id": 6,
+    "pergunta": "Pergunta 6 sobre Combate a incêndio",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Combate a incêndio",
+    "categoria": "Combate a incêndio",
+    "nivel": "medio"
+  },
+  {
+    "id": 7,
+    "pergunta": "Pergunta 7 sobre Combate a incêndio",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Combate a incêndio",
+    "categoria": "Combate a incêndio",
+    "nivel": "medio"
+  },
+  {
+    "id": 8,
+    "pergunta": "Pergunta 8 sobre Combate a incêndio",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Combate a incêndio",
+    "categoria": "Combate a incêndio",
+    "nivel": "medio"
+  },
+  {
+    "id": 9,
+    "pergunta": "Pergunta 9 sobre Combate a incêndio",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Combate a incêndio",
+    "categoria": "Combate a incêndio",
+    "nivel": "medio"
+  },
+  {
+    "id": 10,
+    "pergunta": "Pergunta 10 sobre Combate a incêndio",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Combate a incêndio",
+    "categoria": "Combate a incêndio",
+    "nivel": "medio"
+  },
+  {
+    "id": 11,
+    "pergunta": "Pergunta 11 sobre Combate a incêndio",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Combate a incêndio",
+    "categoria": "Combate a incêndio",
+    "nivel": "medio"
+  },
+  {
+    "id": 12,
+    "pergunta": "Pergunta 12 sobre Combate a incêndio",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Combate a incêndio",
+    "categoria": "Combate a incêndio",
+    "nivel": "medio"
+  },
+  {
+    "id": 13,
+    "pergunta": "Pergunta 13 sobre Combate a incêndio",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Combate a incêndio",
+    "categoria": "Combate a incêndio",
+    "nivel": "medio"
+  },
+  {
+    "id": 14,
+    "pergunta": "Pergunta 14 sobre Combate a incêndio",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Combate a incêndio",
+    "categoria": "Combate a incêndio",
+    "nivel": "medio"
+  },
+  {
+    "id": 15,
+    "pergunta": "Pergunta 15 sobre Combate a incêndio",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Combate a incêndio",
+    "categoria": "Combate a incêndio",
+    "nivel": "medio"
+  },
+  {
+    "id": 16,
+    "pergunta": "Pergunta 1 sobre Extintores",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Extintores",
+    "categoria": "Extintores",
+    "nivel": "medio"
+  },
+  {
+    "id": 17,
+    "pergunta": "Pergunta 2 sobre Extintores",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Extintores",
+    "categoria": "Extintores",
+    "nivel": "medio"
+  },
+  {
+    "id": 18,
+    "pergunta": "Pergunta 3 sobre Extintores",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Extintores",
+    "categoria": "Extintores",
+    "nivel": "medio"
+  },
+  {
+    "id": 19,
+    "pergunta": "Pergunta 4 sobre Extintores",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Extintores",
+    "categoria": "Extintores",
+    "nivel": "medio"
+  },
+  {
+    "id": 20,
+    "pergunta": "Pergunta 5 sobre Extintores",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Extintores",
+    "categoria": "Extintores",
+    "nivel": "medio"
+  },
+  {
+    "id": 21,
+    "pergunta": "Pergunta 6 sobre Extintores",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Extintores",
+    "categoria": "Extintores",
+    "nivel": "medio"
+  },
+  {
+    "id": 22,
+    "pergunta": "Pergunta 7 sobre Extintores",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Extintores",
+    "categoria": "Extintores",
+    "nivel": "medio"
+  },
+  {
+    "id": 23,
+    "pergunta": "Pergunta 8 sobre Extintores",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Extintores",
+    "categoria": "Extintores",
+    "nivel": "medio"
+  },
+  {
+    "id": 24,
+    "pergunta": "Pergunta 9 sobre Extintores",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Extintores",
+    "categoria": "Extintores",
+    "nivel": "medio"
+  },
+  {
+    "id": 25,
+    "pergunta": "Pergunta 10 sobre Extintores",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Extintores",
+    "categoria": "Extintores",
+    "nivel": "medio"
+  },
+  {
+    "id": 26,
+    "pergunta": "Pergunta 11 sobre Extintores",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Extintores",
+    "categoria": "Extintores",
+    "nivel": "medio"
+  },
+  {
+    "id": 27,
+    "pergunta": "Pergunta 12 sobre Extintores",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Extintores",
+    "categoria": "Extintores",
+    "nivel": "medio"
+  },
+  {
+    "id": 28,
+    "pergunta": "Pergunta 13 sobre Extintores",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Extintores",
+    "categoria": "Extintores",
+    "nivel": "medio"
+  },
+  {
+    "id": 29,
+    "pergunta": "Pergunta 14 sobre Extintores",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Extintores",
+    "categoria": "Extintores",
+    "nivel": "medio"
+  },
+  {
+    "id": 30,
+    "pergunta": "Pergunta 15 sobre Extintores",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Extintores",
+    "categoria": "Extintores",
+    "nivel": "medio"
+  },
+  {
+    "id": 31,
+    "pergunta": "Pergunta 1 sobre Equipamentos",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Equipamentos",
+    "categoria": "Equipamentos",
+    "nivel": "medio"
+  },
+  {
+    "id": 32,
+    "pergunta": "Pergunta 2 sobre Equipamentos",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Equipamentos",
+    "categoria": "Equipamentos",
+    "nivel": "medio"
+  },
+  {
+    "id": 33,
+    "pergunta": "Pergunta 3 sobre Equipamentos",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Equipamentos",
+    "categoria": "Equipamentos",
+    "nivel": "medio"
+  },
+  {
+    "id": 34,
+    "pergunta": "Pergunta 4 sobre Equipamentos",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Equipamentos",
+    "categoria": "Equipamentos",
+    "nivel": "medio"
+  },
+  {
+    "id": 35,
+    "pergunta": "Pergunta 5 sobre Equipamentos",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Equipamentos",
+    "categoria": "Equipamentos",
+    "nivel": "medio"
+  },
+  {
+    "id": 36,
+    "pergunta": "Pergunta 6 sobre Equipamentos",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Equipamentos",
+    "categoria": "Equipamentos",
+    "nivel": "medio"
+  },
+  {
+    "id": 37,
+    "pergunta": "Pergunta 7 sobre Equipamentos",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Equipamentos",
+    "categoria": "Equipamentos",
+    "nivel": "medio"
+  },
+  {
+    "id": 38,
+    "pergunta": "Pergunta 8 sobre Equipamentos",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Equipamentos",
+    "categoria": "Equipamentos",
+    "nivel": "medio"
+  },
+  {
+    "id": 39,
+    "pergunta": "Pergunta 9 sobre Equipamentos",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Equipamentos",
+    "categoria": "Equipamentos",
+    "nivel": "medio"
+  },
+  {
+    "id": 40,
+    "pergunta": "Pergunta 10 sobre Equipamentos",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Equipamentos",
+    "categoria": "Equipamentos",
+    "nivel": "medio"
+  },
+  {
+    "id": 41,
+    "pergunta": "Pergunta 11 sobre Equipamentos",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Equipamentos",
+    "categoria": "Equipamentos",
+    "nivel": "medio"
+  },
+  {
+    "id": 42,
+    "pergunta": "Pergunta 12 sobre Equipamentos",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Equipamentos",
+    "categoria": "Equipamentos",
+    "nivel": "medio"
+  },
+  {
+    "id": 43,
+    "pergunta": "Pergunta 13 sobre Equipamentos",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Equipamentos",
+    "categoria": "Equipamentos",
+    "nivel": "medio"
+  },
+  {
+    "id": 44,
+    "pergunta": "Pergunta 14 sobre Equipamentos",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Equipamentos",
+    "categoria": "Equipamentos",
+    "nivel": "medio"
+  },
+  {
+    "id": 45,
+    "pergunta": "Pergunta 15 sobre Equipamentos",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Equipamentos",
+    "categoria": "Equipamentos",
+    "nivel": "medio"
+  },
+  {
+    "id": 46,
+    "pergunta": "Pergunta 1 sobre Legislação",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Legislação",
+    "categoria": "Legislação",
+    "nivel": "medio"
+  },
+  {
+    "id": 47,
+    "pergunta": "Pergunta 2 sobre Legislação",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Legislação",
+    "categoria": "Legislação",
+    "nivel": "medio"
+  },
+  {
+    "id": 48,
+    "pergunta": "Pergunta 3 sobre Legislação",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Legislação",
+    "categoria": "Legislação",
+    "nivel": "medio"
+  },
+  {
+    "id": 49,
+    "pergunta": "Pergunta 4 sobre Legislação",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Legislação",
+    "categoria": "Legislação",
+    "nivel": "medio"
+  },
+  {
+    "id": 50,
+    "pergunta": "Pergunta 5 sobre Legislação",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Legislação",
+    "categoria": "Legislação",
+    "nivel": "medio"
+  },
+  {
+    "id": 51,
+    "pergunta": "Pergunta 6 sobre Legislação",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Legislação",
+    "categoria": "Legislação",
+    "nivel": "medio"
+  },
+  {
+    "id": 52,
+    "pergunta": "Pergunta 7 sobre Legislação",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Legislação",
+    "categoria": "Legislação",
+    "nivel": "medio"
+  },
+  {
+    "id": 53,
+    "pergunta": "Pergunta 8 sobre Legislação",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Legislação",
+    "categoria": "Legislação",
+    "nivel": "medio"
+  },
+  {
+    "id": 54,
+    "pergunta": "Pergunta 9 sobre Legislação",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Legislação",
+    "categoria": "Legislação",
+    "nivel": "medio"
+  },
+  {
+    "id": 55,
+    "pergunta": "Pergunta 10 sobre Legislação",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Legislação",
+    "categoria": "Legislação",
+    "nivel": "medio"
+  },
+  {
+    "id": 56,
+    "pergunta": "Pergunta 11 sobre Legislação",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Legislação",
+    "categoria": "Legislação",
+    "nivel": "medio"
+  },
+  {
+    "id": 57,
+    "pergunta": "Pergunta 12 sobre Legislação",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Legislação",
+    "categoria": "Legislação",
+    "nivel": "medio"
+  },
+  {
+    "id": 58,
+    "pergunta": "Pergunta 13 sobre Legislação",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Legislação",
+    "categoria": "Legislação",
+    "nivel": "medio"
+  },
+  {
+    "id": 59,
+    "pergunta": "Pergunta 14 sobre Legislação",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Legislação",
+    "categoria": "Legislação",
+    "nivel": "medio"
+  },
+  {
+    "id": 60,
+    "pergunta": "Pergunta 15 sobre Legislação",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Legislação",
+    "categoria": "Legislação",
+    "nivel": "medio"
+  },
+  {
+    "id": 61,
+    "pergunta": "Pergunta 1 sobre Comunicação",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Comunicação",
+    "categoria": "Comunicação",
+    "nivel": "medio"
+  },
+  {
+    "id": 62,
+    "pergunta": "Pergunta 2 sobre Comunicação",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Comunicação",
+    "categoria": "Comunicação",
+    "nivel": "medio"
+  },
+  {
+    "id": 63,
+    "pergunta": "Pergunta 3 sobre Comunicação",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Comunicação",
+    "categoria": "Comunicação",
+    "nivel": "medio"
+  },
+  {
+    "id": 64,
+    "pergunta": "Pergunta 4 sobre Comunicação",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Comunicação",
+    "categoria": "Comunicação",
+    "nivel": "medio"
+  },
+  {
+    "id": 65,
+    "pergunta": "Pergunta 5 sobre Comunicação",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Comunicação",
+    "categoria": "Comunicação",
+    "nivel": "medio"
+  },
+  {
+    "id": 66,
+    "pergunta": "Pergunta 6 sobre Comunicação",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Comunicação",
+    "categoria": "Comunicação",
+    "nivel": "medio"
+  },
+  {
+    "id": 67,
+    "pergunta": "Pergunta 7 sobre Comunicação",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Comunicação",
+    "categoria": "Comunicação",
+    "nivel": "medio"
+  },
+  {
+    "id": 68,
+    "pergunta": "Pergunta 8 sobre Comunicação",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Comunicação",
+    "categoria": "Comunicação",
+    "nivel": "medio"
+  },
+  {
+    "id": 69,
+    "pergunta": "Pergunta 9 sobre Comunicação",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Comunicação",
+    "categoria": "Comunicação",
+    "nivel": "medio"
+  },
+  {
+    "id": 70,
+    "pergunta": "Pergunta 10 sobre Comunicação",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Comunicação",
+    "categoria": "Comunicação",
+    "nivel": "medio"
+  },
+  {
+    "id": 71,
+    "pergunta": "Pergunta 11 sobre Comunicação",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Comunicação",
+    "categoria": "Comunicação",
+    "nivel": "medio"
+  },
+  {
+    "id": 72,
+    "pergunta": "Pergunta 12 sobre Comunicação",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Comunicação",
+    "categoria": "Comunicação",
+    "nivel": "medio"
+  },
+  {
+    "id": 73,
+    "pergunta": "Pergunta 13 sobre Comunicação",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Comunicação",
+    "categoria": "Comunicação",
+    "nivel": "medio"
+  },
+  {
+    "id": 74,
+    "pergunta": "Pergunta 14 sobre Comunicação",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Comunicação",
+    "categoria": "Comunicação",
+    "nivel": "medio"
+  },
+  {
+    "id": 75,
+    "pergunta": "Pergunta 15 sobre Comunicação",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Comunicação",
+    "categoria": "Comunicação",
+    "nivel": "medio"
+  },
+  {
+    "id": 76,
+    "pergunta": "Pergunta 1 sobre APH",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de APH",
+    "categoria": "APH",
+    "nivel": "medio"
+  },
+  {
+    "id": 77,
+    "pergunta": "Pergunta 2 sobre APH",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de APH",
+    "categoria": "APH",
+    "nivel": "medio"
+  },
+  {
+    "id": 78,
+    "pergunta": "Pergunta 3 sobre APH",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de APH",
+    "categoria": "APH",
+    "nivel": "medio"
+  },
+  {
+    "id": 79,
+    "pergunta": "Pergunta 4 sobre APH",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de APH",
+    "categoria": "APH",
+    "nivel": "medio"
+  },
+  {
+    "id": 80,
+    "pergunta": "Pergunta 5 sobre APH",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de APH",
+    "categoria": "APH",
+    "nivel": "medio"
+  },
+  {
+    "id": 81,
+    "pergunta": "Pergunta 6 sobre APH",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de APH",
+    "categoria": "APH",
+    "nivel": "medio"
+  },
+  {
+    "id": 82,
+    "pergunta": "Pergunta 7 sobre APH",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de APH",
+    "categoria": "APH",
+    "nivel": "medio"
+  },
+  {
+    "id": 83,
+    "pergunta": "Pergunta 8 sobre APH",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de APH",
+    "categoria": "APH",
+    "nivel": "medio"
+  },
+  {
+    "id": 84,
+    "pergunta": "Pergunta 9 sobre APH",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de APH",
+    "categoria": "APH",
+    "nivel": "medio"
+  },
+  {
+    "id": 85,
+    "pergunta": "Pergunta 10 sobre APH",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de APH",
+    "categoria": "APH",
+    "nivel": "medio"
+  },
+  {
+    "id": 86,
+    "pergunta": "Pergunta 11 sobre APH",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de APH",
+    "categoria": "APH",
+    "nivel": "medio"
+  },
+  {
+    "id": 87,
+    "pergunta": "Pergunta 12 sobre APH",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de APH",
+    "categoria": "APH",
+    "nivel": "medio"
+  },
+  {
+    "id": 88,
+    "pergunta": "Pergunta 13 sobre APH",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de APH",
+    "categoria": "APH",
+    "nivel": "medio"
+  },
+  {
+    "id": 89,
+    "pergunta": "Pergunta 14 sobre APH",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de APH",
+    "categoria": "APH",
+    "nivel": "medio"
+  },
+  {
+    "id": 90,
+    "pergunta": "Pergunta 15 sobre APH",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de APH",
+    "categoria": "APH",
+    "nivel": "medio"
+  },
+  {
+    "id": 91,
+    "pergunta": "Pergunta 1 sobre Emergências Químicas",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Emergências Químicas",
+    "categoria": "Emergências Químicas",
+    "nivel": "medio"
+  },
+  {
+    "id": 92,
+    "pergunta": "Pergunta 2 sobre Emergências Químicas",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Emergências Químicas",
+    "categoria": "Emergências Químicas",
+    "nivel": "medio"
+  },
+  {
+    "id": 93,
+    "pergunta": "Pergunta 3 sobre Emergências Químicas",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Emergências Químicas",
+    "categoria": "Emergências Químicas",
+    "nivel": "medio"
+  },
+  {
+    "id": 94,
+    "pergunta": "Pergunta 4 sobre Emergências Químicas",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Emergências Químicas",
+    "categoria": "Emergências Químicas",
+    "nivel": "medio"
+  },
+  {
+    "id": 95,
+    "pergunta": "Pergunta 5 sobre Emergências Químicas",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Emergências Químicas",
+    "categoria": "Emergências Químicas",
+    "nivel": "medio"
+  },
+  {
+    "id": 96,
+    "pergunta": "Pergunta 6 sobre Emergências Químicas",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Emergências Químicas",
+    "categoria": "Emergências Químicas",
+    "nivel": "medio"
+  },
+  {
+    "id": 97,
+    "pergunta": "Pergunta 7 sobre Emergências Químicas",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Emergências Químicas",
+    "categoria": "Emergências Químicas",
+    "nivel": "medio"
+  },
+  {
+    "id": 98,
+    "pergunta": "Pergunta 8 sobre Emergências Químicas",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Emergências Químicas",
+    "categoria": "Emergências Químicas",
+    "nivel": "medio"
+  },
+  {
+    "id": 99,
+    "pergunta": "Pergunta 9 sobre Emergências Químicas",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Emergências Químicas",
+    "categoria": "Emergências Químicas",
+    "nivel": "medio"
+  },
+  {
+    "id": 100,
+    "pergunta": "Pergunta 10 sobre Emergências Químicas",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Emergências Químicas",
+    "categoria": "Emergências Químicas",
+    "nivel": "medio"
+  },
+  {
+    "id": 101,
+    "pergunta": "Pergunta 11 sobre Emergências Químicas",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Emergências Químicas",
+    "categoria": "Emergências Químicas",
+    "nivel": "medio"
+  },
+  {
+    "id": 102,
+    "pergunta": "Pergunta 12 sobre Emergências Químicas",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Emergências Químicas",
+    "categoria": "Emergências Químicas",
+    "nivel": "medio"
+  },
+  {
+    "id": 103,
+    "pergunta": "Pergunta 13 sobre Emergências Químicas",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Emergências Químicas",
+    "categoria": "Emergências Químicas",
+    "nivel": "medio"
+  },
+  {
+    "id": 104,
+    "pergunta": "Pergunta 14 sobre Emergências Químicas",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Emergências Químicas",
+    "categoria": "Emergências Químicas",
+    "nivel": "medio"
+  },
+  {
+    "id": 105,
+    "pergunta": "Pergunta 15 sobre Emergências Químicas",
+    "alternativas": {
+      "A": "Resposta correta",
+      "B": "Alternativa errada 1",
+      "C": "Alternativa errada 2",
+      "D": "Alternativa errada 3"
+    },
+    "resposta": "A",
+    "explicacao": "Explicação de Emergências Químicas",
+    "categoria": "Emergências Químicas",
+    "nivel": "medio"
+  },
+  {
+    "id": 106,
+    "pergunta": "Situação química 1: ação correta?",
+    "alternativas": {
+      "A": "Isolar e identificar",
+      "B": "Entrar sem EPI",
+      "C": "Ignorar",
+      "D": "Jogar água sem avaliar"
+    },
+    "resposta": "A",
+    "explicacao": "Procedimento seguro em produtos perigosos",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
+  },
+  {
+    "id": 107,
+    "pergunta": "Situação química 2: ação correta?",
+    "alternativas": {
+      "A": "Isolar e identificar",
+      "B": "Entrar sem EPI",
+      "C": "Ignorar",
+      "D": "Jogar água sem avaliar"
+    },
+    "resposta": "A",
+    "explicacao": "Procedimento seguro em produtos perigosos",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
+  },
+  {
+    "id": 108,
+    "pergunta": "Situação química 3: ação correta?",
+    "alternativas": {
+      "A": "Isolar e identificar",
+      "B": "Entrar sem EPI",
+      "C": "Ignorar",
+      "D": "Jogar água sem avaliar"
+    },
+    "resposta": "A",
+    "explicacao": "Procedimento seguro em produtos perigosos",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
+  },
+  {
+    "id": 109,
+    "pergunta": "Situação química 4: ação correta?",
+    "alternativas": {
+      "A": "Isolar e identificar",
+      "B": "Entrar sem EPI",
+      "C": "Ignorar",
+      "D": "Jogar água sem avaliar"
+    },
+    "resposta": "A",
+    "explicacao": "Procedimento seguro em produtos perigosos",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
+  },
+  {
+    "id": 110,
+    "pergunta": "Situação química 5: ação correta?",
+    "alternativas": {
+      "A": "Isolar e identificar",
+      "B": "Entrar sem EPI",
+      "C": "Ignorar",
+      "D": "Jogar água sem avaliar"
+    },
+    "resposta": "A",
+    "explicacao": "Procedimento seguro em produtos perigosos",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
+  },
+  {
+    "id": 111,
+    "pergunta": "Situação química 6: ação correta?",
+    "alternativas": {
+      "A": "Isolar e identificar",
+      "B": "Entrar sem EPI",
+      "C": "Ignorar",
+      "D": "Jogar água sem avaliar"
+    },
+    "resposta": "A",
+    "explicacao": "Procedimento seguro em produtos perigosos",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
+  },
+  {
+    "id": 112,
+    "pergunta": "Situação química 7: ação correta?",
+    "alternativas": {
+      "A": "Isolar e identificar",
+      "B": "Entrar sem EPI",
+      "C": "Ignorar",
+      "D": "Jogar água sem avaliar"
+    },
+    "resposta": "A",
+    "explicacao": "Procedimento seguro em produtos perigosos",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
+  },
+  {
+    "id": 113,
+    "pergunta": "Situação química 8: ação correta?",
+    "alternativas": {
+      "A": "Isolar e identificar",
+      "B": "Entrar sem EPI",
+      "C": "Ignorar",
+      "D": "Jogar água sem avaliar"
+    },
+    "resposta": "A",
+    "explicacao": "Procedimento seguro em produtos perigosos",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
+  },
+  {
+    "id": 114,
+    "pergunta": "Situação química 9: ação correta?",
+    "alternativas": {
+      "A": "Isolar e identificar",
+      "B": "Entrar sem EPI",
+      "C": "Ignorar",
+      "D": "Jogar água sem avaliar"
+    },
+    "resposta": "A",
+    "explicacao": "Procedimento seguro em produtos perigosos",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
+  },
+  {
+    "id": 115,
+    "pergunta": "Situação química 10: ação correta?",
+    "alternativas": {
+      "A": "Isolar e identificar",
+      "B": "Entrar sem EPI",
+      "C": "Ignorar",
+      "D": "Jogar água sem avaliar"
+    },
+    "resposta": "A",
+    "explicacao": "Procedimento seguro em produtos perigosos",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
+  },
+  {
+    "id": 116,
+    "pergunta": "Situação química 11: ação correta?",
+    "alternativas": {
+      "A": "Isolar e identificar",
+      "B": "Entrar sem EPI",
+      "C": "Ignorar",
+      "D": "Jogar água sem avaliar"
+    },
+    "resposta": "A",
+    "explicacao": "Procedimento seguro em produtos perigosos",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
+  },
+  {
+    "id": 117,
+    "pergunta": "Situação química 12: ação correta?",
+    "alternativas": {
+      "A": "Isolar e identificar",
+      "B": "Entrar sem EPI",
+      "C": "Ignorar",
+      "D": "Jogar água sem avaliar"
+    },
+    "resposta": "A",
+    "explicacao": "Procedimento seguro em produtos perigosos",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
+  },
+  {
+    "id": 118,
+    "pergunta": "Situação química 13: ação correta?",
+    "alternativas": {
+      "A": "Isolar e identificar",
+      "B": "Entrar sem EPI",
+      "C": "Ignorar",
+      "D": "Jogar água sem avaliar"
+    },
+    "resposta": "A",
+    "explicacao": "Procedimento seguro em produtos perigosos",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
+  },
+  {
+    "id": 119,
+    "pergunta": "Situação química 14: ação correta?",
+    "alternativas": {
+      "A": "Isolar e identificar",
+      "B": "Entrar sem EPI",
+      "C": "Ignorar",
+      "D": "Jogar água sem avaliar"
+    },
+    "resposta": "A",
+    "explicacao": "Procedimento seguro em produtos perigosos",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
+  },
+  {
+    "id": 120,
+    "pergunta": "Situação química 15: ação correta?",
+    "alternativas": {
+      "A": "Isolar e identificar",
+      "B": "Entrar sem EPI",
+      "C": "Ignorar",
+      "D": "Jogar água sem avaliar"
+    },
+    "resposta": "A",
+    "explicacao": "Procedimento seguro em produtos perigosos",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
+  },
+  {
+    "id": 121,
+    "pergunta": "Situação química 16: ação correta?",
+    "alternativas": {
+      "A": "Isolar e identificar",
+      "B": "Entrar sem EPI",
+      "C": "Ignorar",
+      "D": "Jogar água sem avaliar"
+    },
+    "resposta": "A",
+    "explicacao": "Procedimento seguro em produtos perigosos",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
+  },
+  {
+    "id": 122,
+    "pergunta": "Situação química 17: ação correta?",
+    "alternativas": {
+      "A": "Isolar e identificar",
+      "B": "Entrar sem EPI",
+      "C": "Ignorar",
+      "D": "Jogar água sem avaliar"
+    },
+    "resposta": "A",
+    "explicacao": "Procedimento seguro em produtos perigosos",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
+  },
+  {
+    "id": 123,
+    "pergunta": "Situação química 18: ação correta?",
+    "alternativas": {
+      "A": "Isolar e identificar",
+      "B": "Entrar sem EPI",
+      "C": "Ignorar",
+      "D": "Jogar água sem avaliar"
+    },
+    "resposta": "A",
+    "explicacao": "Procedimento seguro em produtos perigosos",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
+  },
+  {
+    "id": 124,
+    "pergunta": "Situação química 19: ação correta?",
+    "alternativas": {
+      "A": "Isolar e identificar",
+      "B": "Entrar sem EPI",
+      "C": "Ignorar",
+      "D": "Jogar água sem avaliar"
+    },
+    "resposta": "A",
+    "explicacao": "Procedimento seguro em produtos perigosos",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
+  },
+  {
+    "id": 125,
+    "pergunta": "Situação química 20: ação correta?",
+    "alternativas": {
+      "A": "Isolar e identificar",
+      "B": "Entrar sem EPI",
+      "C": "Ignorar",
+      "D": "Jogar água sem avaliar"
+    },
+    "resposta": "A",
+    "explicacao": "Procedimento seguro em produtos perigosos",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
+  },
+  {
+    "id": 126,
+    "pergunta": "Situação química 21: ação correta?",
+    "alternativas": {
+      "A": "Isolar e identificar",
+      "B": "Entrar sem EPI",
+      "C": "Ignorar",
+      "D": "Jogar água sem avaliar"
+    },
+    "resposta": "A",
+    "explicacao": "Procedimento seguro em produtos perigosos",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
+  },
+  {
+    "id": 127,
+    "pergunta": "Situação química 22: ação correta?",
+    "alternativas": {
+      "A": "Isolar e identificar",
+      "B": "Entrar sem EPI",
+      "C": "Ignorar",
+      "D": "Jogar água sem avaliar"
+    },
+    "resposta": "A",
+    "explicacao": "Procedimento seguro em produtos perigosos",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
+  },
+  {
+    "id": 128,
+    "pergunta": "Situação química 23: ação correta?",
+    "alternativas": {
+      "A": "Isolar e identificar",
+      "B": "Entrar sem EPI",
+      "C": "Ignorar",
+      "D": "Jogar água sem avaliar"
+    },
+    "resposta": "A",
+    "explicacao": "Procedimento seguro em produtos perigosos",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
+  },
+  {
+    "id": 129,
+    "pergunta": "Situação química 24: ação correta?",
+    "alternativas": {
+      "A": "Isolar e identificar",
+      "B": "Entrar sem EPI",
+      "C": "Ignorar",
+      "D": "Jogar água sem avaliar"
+    },
+    "resposta": "A",
+    "explicacao": "Procedimento seguro em produtos perigosos",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
+  },
+  {
+    "id": 130,
+    "pergunta": "Situação química 25: ação correta?",
+    "alternativas": {
+      "A": "Isolar e identificar",
+      "B": "Entrar sem EPI",
+      "C": "Ignorar",
+      "D": "Jogar água sem avaliar"
+    },
+    "resposta": "A",
+    "explicacao": "Procedimento seguro em produtos perigosos",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
+  },
+  {
+    "id": 131,
+    "pergunta": "Situação química 26: ação correta?",
+    "alternativas": {
+      "A": "Isolar e identificar",
+      "B": "Entrar sem EPI",
+      "C": "Ignorar",
+      "D": "Jogar água sem avaliar"
+    },
+    "resposta": "A",
+    "explicacao": "Procedimento seguro em produtos perigosos",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
+  },
+  {
+    "id": 132,
+    "pergunta": "Situação química 27: ação correta?",
+    "alternativas": {
+      "A": "Isolar e identificar",
+      "B": "Entrar sem EPI",
+      "C": "Ignorar",
+      "D": "Jogar água sem avaliar"
+    },
+    "resposta": "A",
+    "explicacao": "Procedimento seguro em produtos perigosos",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
+  },
+  {
+    "id": 133,
+    "pergunta": "Situação química 28: ação correta?",
+    "alternativas": {
+      "A": "Isolar e identificar",
+      "B": "Entrar sem EPI",
+      "C": "Ignorar",
+      "D": "Jogar água sem avaliar"
+    },
+    "resposta": "A",
+    "explicacao": "Procedimento seguro em produtos perigosos",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
+  },
+  {
+    "id": 134,
+    "pergunta": "Situação química 29: ação correta?",
+    "alternativas": {
+      "A": "Isolar e identificar",
+      "B": "Entrar sem EPI",
+      "C": "Ignorar",
+      "D": "Jogar água sem avaliar"
+    },
+    "resposta": "A",
+    "explicacao": "Procedimento seguro em produtos perigosos",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
+  },
+  {
+    "id": 135,
+    "pergunta": "Situação química 30: ação correta?",
+    "alternativas": {
+      "A": "Isolar e identificar",
+      "B": "Entrar sem EPI",
+      "C": "Ignorar",
+      "D": "Jogar água sem avaliar"
+    },
+    "resposta": "A",
+    "explicacao": "Procedimento seguro em produtos perigosos",
+    "categoria": "Emergências Químicas",
+    "nivel": "dificil"
+  }
+]
